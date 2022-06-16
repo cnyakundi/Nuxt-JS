@@ -1,6 +1,6 @@
 <template>
  <div class="container">
- <Nav />
+
  <Hero />
  <LargeCardDisplay 
  v-for="cardInfo in largeCardInfo"

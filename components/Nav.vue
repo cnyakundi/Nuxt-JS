@@ -24,7 +24,7 @@
     }
 </script>
 
-<style scoped>
+<style>
     .padding {
         padding: 1.5rem;
         background-color: black
